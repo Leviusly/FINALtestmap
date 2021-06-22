@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/..\/00_Studium\/Semester_4\/00_AStA\/03_Erstiebegr\u00fc\u00dfung\/Sch\u00fcler_Info_Tag\/Maps\/workadventure test map\/FINALtestmap-master\/FINALtestmap-master\/map.json"
+         "target":"map.json"
         }
     },
  "height":34,
@@ -197,7 +197,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/00_Studium\/Semester_4\/00_AStA\/03_Erstiebegr\u00fc\u00dfung\/Sch\u00fcler_Info_Tag\/Maps\/workadventure test map\/FINALtestmap-master\/FINALtestmap-master\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -922,7 +922,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/..\/00_Studium\/Semester_4\/00_AStA\/03_Erstiebegr\u00fc\u00dfung\/Sch\u00fcler_Info_Tag\/Maps\/workadventure test map\/FINALtestmap-master\/FINALtestmap-master\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
