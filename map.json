@@ -197,7 +197,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/..\/..\/..\/..\/..\/..\/..\/GitHub\/FINALtestmap\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -922,7 +922,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/..\/..\/..\/..\/..\/..\/..\/..\/GitHub\/FINALtestmap\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -945,7 +945,7 @@
         {
          "columns":32,
          "firstgid":321,
-         "image":"..\/..\/..\/..\/..\/..\/..\/..\/..\/GitHub\/FINALtestmap\/Room_Builder_Walls_32x32.png",
+         "image":"Room_Builder_Walls_32x32.png",
          "imageheight":960,
          "imagewidth":1024,
          "margin":0,
